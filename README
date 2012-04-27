@@ -1,0 +1,19 @@
+SAF-Compiler
+
+A quick and dirty little compiler 
+Final Project for CPS247 @ Niagara County Community College
+Licensed under CRAPL (see CRAPL-LICENSE)
+Compiled under MASM
+
+USEAGE:
+The compiler will read from CODE.txt and output PROG1.COM
+
+Syntax Example: 
+var int Q .eql 7
+var int R .eql 8
+var int S .eql 0
+add Q,R giving S
+var int A .eql 2
+var int B .eql 1
+var int C .eql 0
+add A,B giving C
