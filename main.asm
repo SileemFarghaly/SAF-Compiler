@@ -9,7 +9,7 @@
 ;~               is split into two other semi-parrallel arrays.
 ;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-TITLE Sileem Farghaly - Basic Compiler
+TITLE Simple Compiler
 
 Code Segment 'CODE'
 
