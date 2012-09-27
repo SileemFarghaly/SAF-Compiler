@@ -3,6 +3,7 @@ SAF-Compiler
 A quick and dirty little compiler 
 Licensed under CRAPL (see CRAPL-LICENSE)
 Compiled with MASM
+This project is AS-IS, there are many problems with it that I have not gotten around to fixing.
 
 USEAGE:
 The compiler will read from CODE.txt and output PROG1.COM
