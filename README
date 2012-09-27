@@ -1,9 +1,8 @@
 SAF-Compiler
 
 A quick and dirty little compiler 
-Final Project for CPS247 @ Niagara County Community College
 Licensed under CRAPL (see CRAPL-LICENSE)
-Compiled under MASM
+Compiled with MASM
 
 USEAGE:
 The compiler will read from CODE.txt and output PROG1.COM
